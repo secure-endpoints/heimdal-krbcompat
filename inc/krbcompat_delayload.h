@@ -31,4 +31,4 @@
 
 #pragma once
 
-BOOL DelayLoadHeimdal(HMODULE);
+BOOL DelayLoadHeimdal(void);

@@ -1,4 +1,4 @@
-/* Generated from C:\src\heimdal\lib\krb5\..\..\lib\krb5\krb5_err.et */
+/* Generated from C:\src\secure-endpoints\heimdal\lib\krb5\..\..\lib\krb5\krb5_err.et */
 /* $Id$ */
 
 #ifndef __krb5_err_h__

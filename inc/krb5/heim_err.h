@@ -1,4 +1,4 @@
-/* Generated from C:\src\heimdal\lib\krb5\..\..\lib\krb5\heim_err.et */
+/* Generated from C:\src\secure-endpoints\heimdal\lib\krb5\..\..\lib\krb5\heim_err.et */
 /* $Id$ */
 
 #ifndef __heim_err_h__
@@ -22,6 +22,7 @@ typedef enum heim_error_number{
 	HEIM_ERR_SERVICE_NOMATCH = -1980176633,
 	HEIM_ERR_NOT_SEEKABLE = -1980176632,
 	HEIM_ERR_TOO_BIG = -1980176631,
+	HEIM_ERR_BAD_HDBENT_ENCODING = -1980176630,
 	HEIM_PKINIT_NO_CERTIFICATE = -1980176576,
 	HEIM_PKINIT_NO_PRIVATE_KEY = -1980176575,
 	HEIM_PKINIT_NO_VALID_CA = -1980176574,

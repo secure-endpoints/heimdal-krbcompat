@@ -1,6 +1,6 @@
 /* This is a generated file */
-#ifndef __C__src_heimdal_lib_kadm5_______out_obj_XP32_RETAIL_lib_kadm5_kadm5_protos_h__
-#define __C__src_heimdal_lib_kadm5_______out_obj_XP32_RETAIL_lib_kadm5_kadm5_protos_h__
+#ifndef __kadm5_protos_h__
+#define __kadm5_protos_h__
 
 #include <stdarg.h>
 
@@ -241,4 +241,4 @@ kadm5_store_tl_data (
 }
 #endif
 
-#endif /* __C__src_heimdal_lib_kadm5_______out_obj_XP32_RETAIL_lib_kadm5_kadm5_protos_h__ */
+#endif /* __kadm5_protos_h__ */

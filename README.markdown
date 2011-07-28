@@ -1,11 +1,11 @@
-Heimdal Compatibility SDK
-=========================
+Secure Endpoints Kerberos Compatibility SDK 1.0
+===============================================
 
-The files in this package constitute a Heimdal compatibility library.
+The files in this package constitute a Kerberos compatibility library.
 Applications compiled against it will work with compatible versions of
 Heimdal libraries.  If the usage of the Heimdal API is constrained to
 a supported subset, then the application can also be expected to work
-with MIT Kerberos for Windows libraries with no modifications.
+with MIT Kerberos for Windows 2.6.x and 3.x libraries with no modifications.
 
 Using the compatibility SDK from an .EXE
 ----------------------------------------

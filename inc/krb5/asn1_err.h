@@ -1,4 +1,4 @@
-/* Generated from C:\src\heimdal\lib\asn1\..\..\lib\asn1\asn1_err.et */
+/* Generated from C:\src\secure-endpoints\heimdal\lib\asn1\..\..\lib\asn1\asn1_err.et */
 /* $Id$ */
 
 #ifndef __asn1_err_h__

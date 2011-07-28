@@ -1,4 +1,4 @@
-/* Generated from C:\src\heimdal\lib\kadm5\..\..\lib\kadm5\kadm5_err.et */
+/* Generated from C:\src\secure-endpoints\heimdal\lib\kadm5\..\..\lib\kadm5\kadm5_err.et */
 /* $Id$ */
 
 #ifndef __kadm5_err_h__

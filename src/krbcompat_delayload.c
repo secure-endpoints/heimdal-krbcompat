@@ -130,9 +130,9 @@ DelayLoadLibrary(LPCSTR libname)
 
 #pragma comment(lib, "delayimp.lib")
 #ifdef _WIN64
-#pragma comment(linker, "\"/manifestdependency:type='win32' name='Kerberos.Compatibility' version='1.0.1.0' processorArchitecture='amd64' publicKeyToken='25cbfc488f69fb70' language='*'\"")
+#pragma comment(linker, "\"/manifestdependency:type='win32' name='Kerberos.Compatibility' version='1.0.2.0' processorArchitecture='amd64' publicKeyToken='25cbfc488f69fb70' language='*'\"")
 #else
-#pragma comment(linker, "\"/manifestdependency:type='win32' name='Kerberos.Compatibility' version='1.0.1.0' processorArchitecture='x86' publicKeyToken='25cbfc488f69fb70' language='*'\"")
+#pragma comment(linker, "\"/manifestdependency:type='win32' name='Kerberos.Compatibility' version='1.0.2.0' processorArchitecture='x86' publicKeyToken='25cbfc488f69fb70' language='*'\"")
 #endif
 
 static LONG volatile attempted_activation_context = 0;
